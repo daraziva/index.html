@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Neucha&display=swap');
+
+* {
+    font-family: 'Neucha', cursive;
+}
+
+body {   
+    background-color: rgba(247, 235, 195, 0.712);}
+
+    .gambar {
+        text-align: center;
+    }
+    
+    .gambar>.ukuran-gambar {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+    }
